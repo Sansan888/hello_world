@@ -1,2 +1,4 @@
 # hello_world
-My first GitHub
+Hello,
+This is my first GitHub. Welcom to the world of GitHub. 
+You'll discover the mysterious ! 
